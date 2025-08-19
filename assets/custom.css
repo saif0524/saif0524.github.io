@@ -1,0 +1,12 @@
+:root { --accent: #0a6cff; }
+.site-title a { font-weight: 700; letter-spacing: 0.2px; }
+.post-title, h1, h2, h3 { line-height: 1.25; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav-trigger + label, .page-link { font-weight: 500; }
+.site-header { border-top: 6px solid var(--accent); }
+footer.site-footer { font-size: 0.9rem; opacity: 0.9; }
+.avatar { width: 132px; border-radius: 50%; box-shadow: 0 3px 18px rgba(0,0,0,0.1); }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 999px; border: 1px solid #ddd; font-size: 0.8rem; margin-right: 6px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.card { border: 1px solid #eaeaea; border-radius: 12px; padding: 14px 16px; }
