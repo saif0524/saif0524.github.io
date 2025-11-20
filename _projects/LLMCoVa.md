@@ -1,5 +1,5 @@
 ---
-title: "LLMCoVa: Large Language Model Code Vulnerability Analysis"
+title: "LLMCoVa: LLM Generated Code Vulnerability Analysis"
 layout: single
 collection: projects
 permalink: /projects/llmcova
