@@ -25,9 +25,7 @@ This project investigates using **LLMs** for static code analysis and vulnerabil
 
 1. Y. Nam, J. S. Park, D. K. Das, and D. Krueger, “Causal Head Gating: Quantifying Attention Head Importance in Transformers,” arXiv:2401.12875, Jan. 2024.
 
-1. Z. Chen, M. Kharitonov, and R. Schwartz, “Syntactic Attention Structure Emerges in Transformer Language Models,” in Proc. ACL, Jul. 2024.
-
-1. L. Elhelo and M. Geva, “Mapping Attention Parameters to Their Semantics,” arXiv:2404.06511, Apr. 2024.
+1. A. Elhelo and M. Geva, “Mapping Attention Parameters to Their Semantics,” arXiv:2404.06511, Apr. 2024.
 
 1. A. Vig, “A Multiscale Visualization of Attention in the Transformer Model,” in Proc. ACL RepL4NLP, Aug. 2019. (Classic visual interpretation reference)
 
