@@ -2,7 +2,7 @@
 title: "Mechanistic Analysis of LLMs"
 layout: single
 collection: projects
-permalink: /projects/llmcova
+permalink: /projects/mechanistic-analysis
 excerpt: "Exploring xAI for vulnerable / secure code generation."
 #date: 2025-01-10
 ---
