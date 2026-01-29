@@ -1,9 +1,9 @@
 ---
-title: "LLMCoVa: LLM Generated Code Vulnerability Analysis"
+title: "Mechanistic Analysis of LLMs"
 layout: single
 collection: projects
 permalink: /projects/llmcova
-excerpt: "Exploring code vulnerability detection using LLMs and explainable AI."
+excerpt: "Exploring xAI for vulnerable / secure code generation."
 #date: 2025-01-10
 ---
 This project investigates using **LLMs** for static code analysis and vulnerability detection.
